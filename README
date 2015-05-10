@@ -1,0 +1,9 @@
+#
+#
+#
+
+arch/xfce
+---------
+* make application startup icon
+  =>  cp icon in /usr/share/pixmaps folder
+
